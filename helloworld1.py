@@ -4,6 +4,12 @@
 # python -m pip install --upgrade pip
 # pip install paramiko --user
 # pip install librouteros --user
+# pip install paramiko --user
+# pip install librouteros --user
+# pip install paramiko --user
+# pip install librouteros --user
+# pip install paramiko --user
+# pip install librouteros --user
 import os
 from librouteros import connect
 from getpass import getpass
